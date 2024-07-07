@@ -13,3 +13,9 @@ h1 {
     color:rgb(94, 44, 9)
 }
 
+.list {
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(253, 243, 228);
+}
+
